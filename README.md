@@ -1,3 +1,3 @@
 # react-tutorial
 
-Adding new line for test
+New line for test
